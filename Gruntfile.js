@@ -8,7 +8,7 @@ module.exports = function(grunt) {
     livereload: 35729,
     src: 'src',
     dist: 'dist',
-    name: 'ng-scrollbar'
+    name: 'scrollbar-sdk-new-mrdx'
   };
 
   // Livereload setup

@@ -1,5 +1,5 @@
 {
-  "name": "ng-scrollbar",
+  "name": "scrollbar-sdk-new-mrdx",
   "version": "0.0.8",
   "main": "dist/ng-scrollbar.min.js",
   "description": "A custom scrollbar written in pure AngularJS",
@@ -8,15 +8,15 @@
     "angularjs",
     "scrollbar"
   ],
-  "homepage": "https://github.com/conlaigi1497/ng-scrollbar",
-  "bugs": "https://github.com/conlaigi1497/ng-scrollbar/issues",
+  "homepage": "https://github.com/conlaigi1497/scrollbar-sdk-new-mrdx",
+  "bugs": "https://github.com/conlaigi1497/scrollbar-sdk-new-mrdx/issues",
   "author": {
     "name": "MrDx",
     "email": "conlaigi1497@gmail.com"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/conlaigi1497/ng-scrollbar.git"
+    "url": "https://github.com/conlaigi1497/scrollbar-sdk-new-mrdx.git"
   },
   "licenses": [
     {
